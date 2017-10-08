@@ -1,5 +1,8 @@
 # deoutlier_corrmat
 
+Perform statistical outlier exclusion for ambient seismic noise data and compute correlation matrix of neighboring frequency power spectral values
+
+
 
 References
 
