@@ -21,7 +21,7 @@ updated at Stanford, Oct 2016
 
 Non-commercial use only. Commercial use is prohibited without permission from the author.
 
-No warranty
+This is documented sample code. No warranty
 
 All rights reserved.
 
