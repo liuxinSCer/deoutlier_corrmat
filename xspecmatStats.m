@@ -1,8 +1,8 @@
 function [selectedindex,corrmat]=xspecmatStats(freqarraystack,freqrange)
 % INPUT:
-% freqarraystack: complex cross-spectra matrix of two stations; 
+% freqarraystack: complex cross-spectra matrix of one or two stations; 
 %                 nwindows*nfreqstore matrix;
-% freqrange:      1*nfreqstore vector; corresponds to all frequencies store
+% freqrange:      1*nfreqstore vector; corresponds to all discrete frequencies stored in freqarraystack matrix
 %
 % RETURN: 
 % selectedindex: boolean vector of selected rows in freqarraystack where 0==outliers; 1==inliers
